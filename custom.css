@@ -1,0 +1,106 @@
+
+/*p{
+ text-align: justify;
+ font-size: 1rem;
+}*/
+
+li{
+ font-size: 1rem;
+}
+
+.destaque{
+  background-color: #ffffff;
+}
+
+.minirodape{
+  font-size: 0.8rem;
+  position: absolute;
+  bottom: 60px;
+  padding-right: 4em;
+}
+
+.inverse .remark-inline-code {
+  color: #f58634;
+}
+
+.inverse a {
+  color: #f58634;
+}
+
+.h1_title {
+  font-family: var(--header-font-family), var(--header-font-family-fallback);
+  font-weight: 600;
+  font-size: 50px;
+  color: #000000;
+}
+
+.h2_title {
+  font-family: var(--header-font-family), var(--header-font-family-fallback);
+  font-weight: 600;
+  font-size: 30px;
+  color: #000000;
+}
+
+.h3_title {
+  font-family: var(--header-font-family), var(--header-font-family-fallback);
+  font-weight: 300;
+  font-size: 25px;
+  color: #000000;
+}
+
+.long_title {
+  font-family: var(--header-font-family), var(--header-font-family-fallback);
+  font-weight: 200;
+  font-size: 20px;
+  color: #404040;
+}
+
+.authors {
+  /*font-family: var(--header-font-family), var(--header-font-family-fallback);*/
+  font-weight: 100;
+  font-size: 13px;
+  color: #404040;
+}
+
+.item {
+  font-family: var(--header-font-family), var(--header-font-family-fallback);
+  font-weight: 300;
+  font-size: 30px;
+  color: #1381B099;
+}
+
+.coluna-esquerda {
+  width: 75%;
+  float: left;
+  padding-bottom: 5em;
+  text-align: justify;
+}
+
+.coluna-direita {
+  width: 23%;
+  height: 92%;
+  float: right;
+}
+
+.metade-esquerda {
+  width: 50%;
+  float: left;
+  padding-bottom: 5em;
+}
+
+.metade-direita {
+  width: 50%;
+  height: 100%;
+  float: right;
+  text-align: justify;
+}
+
+.metade-direita-paragrafo{
+  width: 43%;
+  height: 100%;
+  float: right;
+  text-align: justify;
+}
+
+
+

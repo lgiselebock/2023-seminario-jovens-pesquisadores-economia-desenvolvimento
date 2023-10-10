@@ -64,21 +64,60 @@ style_duo_accent(
 
 <p style='text-align:center;'> .h3_title[1 INTRODUÇÃO] </p>
 
-<p text align="justify">O <strong><font color="#000000">consumo das famílias</font></strong> consiste em uma das variáveis mais importantes do Sistema de Contas Nacional (SCN) compondo a demanda final e cuja evolução permite compreender a acessibilidade das famílias aos bens e serviços ofertados. É um dos principais componentes do Produto Interno Bruto (PIB), tendo representado em torno de 60% deste nos últimos anos <a href='#referencias-slide'>(Carvalho <i>et al.</i>, 2016)</a>.</p>
+.left-column[
+<br>
+<br>
+<br>
+<font size='7'><strong><font color='#000000'>CONSUMO</font></strong></font>
+]
 
-<p text align="justify">O consumo depende diretamente da renda presente auferida pelas famílias - resultante dos salários, lucros, juros, aluguéis, etc. Uma vez não havendo a renda presente, ou nos casos em que ela seja insuficiente, o consumo pode ocorrer pelo uso de rendas passadas (riquezas acumuladas) ou pela expectativa de rendas futuras, por meio do endividamento das famílias <a href='#referencias-slide'>(Passos e Nogami, 1998; Rossetti, 2003)</a>.</p> 
+.right-column[
+- um das variáveis mais importantes do Sistema de Contas Nacional (SCN)
+<br>
+<br>
+- permite compreender a acessibilidade das famílias aos bens e serviços ofertados
+<br>
+<br>
+- é um dos principais componentes do Produto Interno Bruto (PIB), tendo representado cerca de 60% deste nos últimos anos <a href='#referencias-slide'>(Carvalho <i>et al.</i>, 2016)</a>.
+<br>
+<br>
+- depende:
+  - renda presente auferida pelas famílias;
+  - rendas passadas; 
+  - expectativa de rendas futuras (endividamento) <a href='#referencias-slide'>(Passos e Nogami, 1998; Rossetti, 2003)</a>.
+]
 
 ---
-
 
 <div class="footer"><img src="img/footer.png" height="112px"></div>
 <div class="header"><img src="img/header1.png"></div>
 
 <br> <br> <br> <br> <br> <br>
 
-<p text align="justify">O <strong><font color="#000000">endividamento</font></strong> pode ser definido como a existência de uma obrigação que será saldada após o pagamento, onde basta contrair a dívida para enquadrar-se como endividado <a href='#referencias-slide'>(Carvalho, Sousa e Fuentes, 2017)</a>, como, também, o resultado do acúmulo de dívidas, fruto da ação de não pagar o que foi usufuído <a href='#referencias-slide'>(Camargos, 2022)</a>. Neste caso, mais do que o endividamento em si, trata-se da <strong><font color="#000000">inadimplência</font></strong>, isto é, o não cumprimento com a obrigação de pagar pelo uso de um bem ou serviço no passado, com previsão de pagamento futuro.</p>
+.metade-esquerda-maior[
+<br>
+<font size='7'><strong><font color='#000000'>ENDIVIDAMENTO</font></strong></font>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<font size='7'><strong><font color='#000000'>INADIMPLÊNCIA</font></strong></font>
+]
 
-<p text align="justify">Este trabalho tem como objetivo analisar os aspectos do consumo e do endividamento das famílias brasileiras entre os anos de 2013 e 2022, período que contou com o final do governo Dilma Rousseff e dos governos alinhados ao pensamento (neo)liberal de Michel Temer e Jair Bolsonaro. Tal espaço temporal ainda foi acometido por uma crise sanitária sem precedentes na atualidade - a Pandemia de Covid-19 - que, além de provocar um grande número de mortes, ocasionou sérios impactos às economias dos diferentes países.</p>
+.metade-direita-menor[
+- existênca de uma obrigação que será saldada após o pagamento <a href='#referencias-slide'>(Carvalho, Sousa e Fuentes, 2017)</a> 
+<br>
+<br>
+- resultado do acúmulo de dívidas, resultado da ação de não pagar o que foi usufruído <a href='#referencias-slide'>(Camargos, 2022)</a>.
+<br>
+<br>
+<br>
+<br>
+<br>
+- não cumprimento com a obrigação de pagar pelo uso de um bem ou serviço no passado, com previsão de pagamento futuro.
+]
 
 ---
 
@@ -94,8 +133,9 @@ style_duo_accent(
 ]
 
 .right-column[
-- Assume a presidência em 2003;
-- Mantem o *tripé macroeconômico* introduzido por seu antecessor Fernando Henrique Cardoso, que incluía metas de inflação, câmbio flutuante e superávit primário [(Bresser Pereira, 2012)](#referencias-slide);
+- Mantem o *tripé macroeconômico* introduzido por seu antecessor Fernando Henrique Cardoso, que incluía metas de inflação, câmbio flutuante e superávit primário [(Bresser Pereira, 2012)](#referencias-slide)
+<br>
+<br>
 - Mesmo com fraco desempenho do investimento e do crescimento do produto, a expansão do consumo familiar ocorreu em virtude de: 
   - expansão das transferências de renda;
   - programas assistenciais;
@@ -111,9 +151,11 @@ style_duo_accent(
 <br> <br> <br> <br>
 
 .coluna-esquerda[
-- Expansão dos investimentos e do consumo com relativa estabilidade econômica;
+- Expansão dos investimentos e do consumo com relativa estabilidade econômica
+<br>
+<br>
 - Retomada do crescimento;
-  - Melhora das condições de emprego, com redução da taxa de desemprego e aumento da formalização;
+  - Melhora das condições de emprego (redução da taxa de desemprego e aumento da formalização);
   - Aumento da renda dos indivíduos;
   - Incorporação de novos agentes aos mercados de bens e serviços, além do mercado de crédito. [(Gremaud *et al.*, 2017)](#referencias-slide)
 
@@ -123,7 +165,6 @@ style_duo_accent(
 - Políticas anticíclicas de estímulo fiscal:
   - redução de impostos (IPI automóveis, eletrodomésticos, materiais de construção, entre outros);
   - expansão do crédito pelos bancos públicos.
-- Em 2009, tanto o consumo familiar quanto o investimento voltaram a se elevar, retomando o crescimento econômico. [(Gremaud *et al.*, 2017)](#referencias-slide)
 ]
 
 .coluna-direita[
@@ -144,13 +185,15 @@ style_duo_accent(
 ]
 
 .right-column[
-- Assume a presidência em 2011, herdando, de seu antecessor, o *Modelo de Consumo de Massa*:
-  - expansão do consumo das famílias, com melhor distribuição e transferência de renda, expansão do crédito ao consumidor e fortalecimento do mercado de trabalho (valorização do salário mínimo) [(Cardoso e Reis, 2022)](#referencias-slide);
-  - logo arrefeceu, em razão das baixas taxas de poupança e investimento, além da perda dos ganhos de produtividade;
-  - resultou em limitação da capacidade produtiva e em significativas pressões inflacionárias [(Gremaud *et al.*, 2017; Bastos, 2017)](#referencias-slide); 
-- Crescimento econômico baseado na criação de emprego, redução das taxas de desemprego e da ocupação da capacidade ociosa em resposta à ampliação da demanda já não se verificava mais;
-- Piora de diversos indicadores econômicos, como: a queda do produto, o aumento das taxas de inflação e de juros, déficits primário e nominal e a elevação da dívida pública em proporção ao PIB [(Gremaud *et al.*, 2017; Cardoso e Reis, 2022)](#referencias-slide);
-- Tem seu segundo mandato interrompido em maio de 2016, com o afastamento e, depois, com o *Impeachment* em agosto de 2016.
+- Assume a presidência em 2011, herdando o *Modelo de Consumo de Massa*:
+  - expansão do consumo das famílias (melhor distribuição e transferência de renda, expansão do crédito ao consumidor e fortalecimento do mercado de trabalho - valorização do salário mínimo) [(Cardoso e Reis, 2022)](#referencias-slide);
+  - arrefecimento (baixas taxas de poupança e investimento, com perda dos ganhos de produtividade), resultando em limitação da capacidade produtiva e em significativas pressões inflacionárias [(Gremaud *et al.*, 2017; Bastos, 2017)](#referencias-slide)
+<br>
+<br>  
+- Crescimento econômico baseado na criação de emprego, redução das taxas de desemprego e da ocupação da capacidade ociosa em resposta à ampliação da demanda já não se verificava mais
+<br>
+<br>
+- Piora de diversos indicadores econômicos: a queda do produto, o aumento das taxas de inflação e de juros, déficits primário e nominal e a elevação da dívida pública em proporção ao PIB [(Gremaud *et al.*, 2017; Cardoso e Reis, 2022)](#referencias-slide).
 ]
 
 ---
@@ -161,15 +204,17 @@ style_duo_accent(
 <br> <br> <br> <br>
 
 .coluna-esquerda[
-- Assumiu o mandato com um diagnóstico e propostas de atuação ortodoxas da gestão econômica;
+<br>
+- Diagnóstico e propostas de atuação ortodoxas da gestão econômica
+<br>
+<br>
 - Interpretou a crise econômica como sendo oriunda da má gestão da política econômica, em especial, da política fiscal;
 
 <strong><a href='https://static.poder360.com.br/2017/07/ponteparaofuturo.pdf'><font color="#000000">Uma ponte para o futuro</font></a></strong>: texto publicado pelo [PMDB](#referencias-slide), partido de Temer, que evidencia uma clara guinada às práticas ortodoxas, especialmente na política monetária e cambial.
 
-- Regra do teto dos gastos (2016): o governo federal poderia gastar o valor consumido no ano anterior, corrigido pela inflação, significando um congelamento real dos gastos públicos.
+- Regra do teto dos gastos (2016)
 
-- Reforma trabalhista (2017): em resposta ao peso que os aumentos do salário mínimo representavam para a dívida pública,
-permitiu a flexibilização das relações de trabalho e resultou em maior precarização dos vínculos trabalhistas. [(Oreiro e Paula, 2021)](#referencias-slide)
+- Reforma trabalhista (2017)
 ]
 
 .coluna-direita[
@@ -189,12 +234,16 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 ]
 
 .right-column[
-- Assume a presidência em 2019, sucedendo Michel Temer;
-- Promessa de continuar o programa liberal econômico iniciado por seu antecessor: 
+- Promessa de continuar o programa liberal econômico iniciado por Temer: 
   - austeridade fiscal; e 
   - aprofundamento das reformas econômicas;
-- Reforma da Previdência (2019): que aumentou a idade para aposentadoria e reduziu o valor do benefício;
-- Autonomia do Banco Central (2021): o órgão e seus diretores têm liberdade para tomar decisões acerta da política monetária sem interferência do governo.
+<br>
+<br>
+- Reforma da Previdência (2019)
+
+- Autonomia do Banco Central (2021)
+<br>
+<br>
 - Estas reformas fragilizaram a recuperação da economia brasileira no pós crise do governo Dilma [(Cardoso e Reis, 2022; Carneiro, 2019)](#referencias-slide) e criaram um "pano de fundo" para o enfrentamento à crise econômica causada pela pandemia de Covid-19.
 ]
 
@@ -207,16 +256,11 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 
 <p style='text-align:center;'> .h3_title[3 A PANDEMIA DE COVID-19 E O IMPACTO NO PIB E NO CONSUMO BRASILEIRO] </p>
 
-<p text align="justify">No momento em que o Brasil vivenciava uma crise econômica e política que retardavam sua recuperação, <strong><font color="#000000">o país foi assolado pela pandemia de Covid-19</font></strong>. Negando a gravidade do vírus, o então presidente, seguido por quase toda sua equipe do poder executivo, contrapunha-se contra as recomendações de cientistas e da própria Organização Mundial da Saúde sobre o isolamento social e outras formas de enfrentamento à proliferação do vírus.</p>
-
-<p text align="justify"><strong><font color="#000000">A crise sanitária</font></strong> não impactou somente na área da saúde, mas também <strong><font color="#000000">teve duro efeito na economia brasileira</font></strong>. O PIB nacional regrediu mais de 4%, o desemprego atingiu números históricos, com aumento do número de trabalhadores informais e sem carteira assinada e aumento da desigualdade de renda e de pessoas vivendo abaixo da linha de pobreza. </p>
-
----
-
-<div class="footer"><img src="img/footer.png" height="112px"></div>
-<div class="header"><img src="img/header1.png"></div>
-
-<br> <br> <br> <br>
+- No momento em que o Brasil vivenciava uma crise econômica, foi assolado pela pandemia de Covid-19
+<br>
+<br>
+- A crise sanitária teve duro efeito na economia brasileira:
+<br>
 
 <center><font size="4"><strong><font color="#000000">Quadro 1 - Variação do PIB e componentes do PIB entre 2019 e 2020</font></strong></font></center>
 
@@ -224,11 +268,9 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 |:-------:|:------------------------:|:----------------------:|:----------------------------------:|:--------------:|:--------------:|
 |  -3,57% |          -4,88%          |         -3,68%         |               -1,73%               |     -2,72%     |     -9,81%     |
 
-<center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">SCNT/IBGE (2023)</font></a>.</font></center>
+<center><font size="4">Fonte: <a href='#referencias-slide'><font color="#000000">SCNT/IBGE (2023)</font></a>.</font></center>
 
-<p text align="justify"><strong><font color="#000000">A adoção de medidas emergenciais, como o auxílio emergencial</font></strong> <a href='#referencias-slide'>(BRASIL, 2020)</a>, mesmo que contrariando o discurso governista de redução dos gastos, <strong><font color="#000000">foi fator importante para assegurar que o consumo sofresse retração ainda maior</font></strong>, permitindo que parte das famílias brasileiras tivesse a possibilidade de consumir o básico necessário para sobreviver <a href='#referencias-slide'>(Neves, Oliveira e Pauli, 2022)</a>.</p>
-
-<p text align="justify">A pandemia de Covid-19 demonstrou a importância e a necessidade da ação estatal para seu enfrentamento e superação, seja no âmbito microeconômico, onde as famílias estão inseridas, quanto no âmbito macroeconômico, na engrenagem de toda a economia <a href='#referencias-slide'>(Cardoso e Reis, 2022)</a>. Ao evidenciar a desigualdade no Brasil, a pandemia e a crise socioeconômica estamparam os desafios para as políticas públicas, especialmente aquelas associadas à proteção social e à preservação do emprego e da renda <a href='#referencias-slide'>(Camargos, 2022; Trovão, 2020)</a>.<p>
+- A adoção de medidas emergenciais (auxílio emergencial) foi fator importante para assegurar que o consumo sofresse retração ainda maior;
 
 ---
 
@@ -239,13 +281,16 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 
 <p style='text-align:center;'> .h3_title[4 METODOLOGIA] </p>
 
-<p text align="justify">Este trabalho é resultado de uma pesquisa realizada na disciplina Laboratório de Práticas em Economia, por meio da qual os alunos devem realizar uma atividade prática de análise de estrutura e conjuntura econômica.</p>
+- Pesquisa bibliográfica (contextualização dos temas abordados e do período histórico abordado);
+- Pesquisa documental e análise de dados secundários:
+  - sites oficiais do governo (IBGE, IPEA, BACEN, etc);
+  - órgão particulares que representam sindicatos e empresas do setor terciário brasileiro (DIEESE, CNC, etc).
 
-<p text align="justify">Trata-se de uma análise de caráter descritivo e explicativo, com base em pesquisa documental e levantamento e análise de dados secundários, por meio de buscas em sites oficiais do governo (IBGE, IPEA, BACEN, etc) e de órgãos particulares que representam sindicatos e empresas do setor terciário brasileiro (DIEESE, CNC, etc), dentre outros <a href='#referencias-slide'>(Gil, 2002; Severino, 2014)</a>.</p>
-
-<p text align="justify">As informações quantitativas consideradas na análise centram-se nas variáveis de Consumo das Famílias e no Produto Interno Bruto (PIB) brasileiros do Sistema de Contas Nacionais Trimestrais (SCNT). Foram considerados dados deflacionados, que refletem, portanto, valores reais, com base nos preços de 1995. Ademais, este trabalho contou com pesquisa bibliográfica, para contextualização dos temas abordados e do período histórico retratado.</p>
+- As informações quantitativas consideradas centram-se nas variáveis de Consumo das Famílias e no Produto Interno Bruto (PIB) brasileiros do Sistema de Contas Nacionais Trimestrais (SCNT);
+- Foram considerados dados deflacionados com base nos preços de 1995.
 
 ---
+
 <div class="footer"><img src="img/footer.png" height="112px"></div>
 <div class="header"><img src="img/header1.png"></div>
 
@@ -253,19 +298,23 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 
 <p style='text-align:center;'> .h3_title[5 RESULTADOS E DISCUSSÃO] </p>
 
-.metade-esquerda[
-<center><font size="3.5"><strong><font color="#000000">Figura 1 - Consumo das Famílias Brasileiras - em milhões de R$ - 2013/2022</font></strong></font></center>
+.graficos[
+<center><font size="4"><strong><font color="#000000">Figura 1 - Consumo das Famílias Brasileiras - em milhões de R$ - 2013/2022</font></strong></font></center>
 
 <center><img src="img/figura-1.png" alt="Consumo das Famílias Brasileiras - em milhões de R$ - 2013/2022"></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">SCNT/IBGE (2023)</font></a>.</font></center>
 ]
 
-.metade-direita[
-- Após a recuperação, frente à redução que sofreu (crise econômica 2015/2016), o consumo voltou a cair em 2020 (pandemia Covid-19);
-- Em 2019, havia uma forte expectativa de que a economia retomaria o seu caminho de crescimento. Contudo, já no primeiro ano, o governo deu sinais de que não faria uma boa condução econômica;
-- Com a chegada da pandemia, em 2020, o problema se aprofundou - o PIB encolheu 3% e o consumo das famílias reduziu quase 4% durante o ano;
-- Com as medidas econômicas aprovadas e a retomada do comércio e do setor de serviços, a partir do segundo trimestre de 2020, o consumo voltou a crescer.
+.analises[
+<br>
+- Queda do consumo entre os anos de 2015 e 2016, com posterior recuperação
+<br>
+<br>
+- Com a pandemia, em 2020, o consumo voltou a cair
+<br>
+<br>
+- Com a as medidas econômicas aprovadas e a retomada do comércio e do setor de serviços, o consumo voltou a crescer.
 ]
 
 ---
@@ -275,20 +324,21 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 
 <br> <br> <br> <br>
 
-.metade-esquerda[
-<br>
-<center><font size="3.5"><strong><font color="#000000">Figura 2 - Taxa de variação (%) do consumo das famílias e do PIB no Brasil - 2013/2022</font></strong></font></center>
+.graficos[
+<center><font size="4"><strong><font color="#000000">Figura 2 - Taxa de variação (%) do consumo das famílias e do PIB no Brasil - 2013/2022</font></strong></font></center>
 
 <center><img src="img/figura-2.png" alt="Taxa de variação (%) do consumo das famílias e do PIB no Brasil - 2013/2022"></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">SCNT/IBGE (2023)</font></a>.</font></center>
 ]
 
-.metade-direita[
-<br> <br> <br> <br>
-- A variação do consumo segue a variação do PIB;
-- Com exceção da crise econômica de 2015/2016 e da crise causada pela pandemia, em 2020, o consumo varia mais que o próprio PIB;
-- As estatísticas evidenciam que nos momentos de crises econômicas, o consumo se retrai em maior proporção em relação a queda do PIB.
+.analises[
+<br>
+<br>
+- Com exceção da crise econômica (2015) e da crise causada pela pandemia (2020), o consumo varia mais do que o PIB
+<br>
+<br>
+- Nos momentos de crises econômicas, o consumo se retrai em maior proporção em relação a queda do PIB.
 ]
 
 ---
@@ -298,19 +348,21 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 
 <br> <br> <br> <br>
 
-.metade-esquerda[
-<center><font size="3.5"><strong><font color="#000000">Figura 3 - Taxa de variação acumulada em 12 meses do consumo <i>per capita</i> das famílias - 2019/2022</font></strong></font></center>
+.graficos[
+<center><font size="4"><strong><font color="#000000">Figura 3 - Taxa de variação acumulada em 12 meses do consumo <i>per capita</i> das famílias - 2019/2022</font></strong></font></center>
 
 <center><img src="img/figura-3.png" alt="Taxa de variação acumulada em 12 meses do consumo per capita das famílias - 2019/2022"></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">Dados do IBGE, (Ipeadata, 2022)</font></a>.</font></center>
 ]
 
-.metade-direita[
-- Após uma recuperação do consumo, em 2019, houve quedas significativas no primeiro semestre de 2020, tão logo a pandemia chegou ao Brasil;
-- Nos meses seguintes, com a injeção de dinheiro provenientes das medidas econômicas aprovadas no Congresso Nacional ("Orçamento de Guerra") <a href='#referencias-slide'>(BRASIL, 2020)</a>, e sobretudo no segundo trimestre de 2021, após o início da vacinação da população brasileira, ocorreram melhoras nos níveis apresentados, indicando uma recuperação do consumo das famílias.
-<br> 
-<font size='3'><p text align='right'>As medidas econômicas do "Orçamento de Guerra" (auxílio emergencial, recursos para estados e municípios e garantia de liquidez ao mercado) não entraram na contabilização da Regra do Teto de Gastos <a href='#referencias-slide'>(Cardoso e Reis, 2022)</a> e ajudaram na recuperação dos índices de consumo.</p></font>
+.analises[
+<br>
+<br>
+- Queda significativo no 1º semestre de 2020
+<br>
+<br>
+- Com as medidas econômicas aprovadas e a vacinação da população, o consumo <i>per capita</i> das famílias apresentou recuperação.
 ]
 
 ---
@@ -320,18 +372,21 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 
 <br> <br> <br> <br>
 
-.metade-esquerda[
-<center><font size="3.5"><strong><font color="#000000">Figura 4 - Percentual do consumo das famílias sobre o PIB brasileiro - 2013/2022</font></strong></font></center>
+.graficos[
+<center><font size="4"><strong><font color="#000000">Figura 4 - Percentual do consumo das famílias sobre o PIB brasileiro - 2013/2022</font></strong></font></center>
 
 <center><img src="img/figura-4.png" alt="Percentual do consumo das famílias sobre o PIB brasileiro - 2013/2022"></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">SCNT/IBGE (2023)</font></a>.</font></center>
 ]
 
-.metade-direita[
-- O consumo representa mais de 60% do PIB, percentual que vinha crescendo desde 2006 motivado pela política redistributiva do governo Lula - programas de redistribuição de renda (como o Bolsa Família) e a política de valorização do salário mínimo - que fomentou o consumo;
-- O peso do consumo no PIB foi negativamente impactado pelas crises de 2016 e 2020, marcando a reversão da tendência de crescimento. Em ambos os casos, nota-se a recuperação da tendência de crescimento do consumo sobre o PIB;
-- Em todo o período observado (incluíndo os anos de 2016 e 2020), o peso do consumo não esteve abaixo de 65% do PIB, evidenciando-se a importância do consumo das famílias para o PIB brasileiro.
+.analises[
+<br>
+<br>
+- O consumo representa mais de 60% do PIB
+<br>
+<br>
+- O peso do consumo no PIB foi negativamente impactado pelas crises (2015 e 2020), marcando a reversão da tendência de crescimento.
 ]
 
 ---
@@ -341,19 +396,24 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 
 <br> <br> <br> <br>
 
-.metade-esquerda[
-<center><font size="3.5"><strong><font color="#000000">Figura 5 - Variação acumulada durante o ano do IPCA no Brasil - 2012/2022</font></strong></font></center>
+.graficos[
+<center><font size="4"><strong><font color="#000000">Figura 5 - Variação acumulada durante o ano do IPCA no Brasil - 2012/2022</font></strong></font></center>
 
 <center><img src="img/figura-5.png" alt="Variação acumulada durante o ano do IPCA no Brasil - 2012/2022"></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">IBGE (2022a)</font></a>.</font></center>
 ]
 
-.metade-direita[
-- A inflação é um importante componente que influencia as ações dos agentes econômicos, sendo responsável pelo aumento do custo de vida e, consequentemente, pela redução no poder de compra da população;
-- O Índice de Preços ao Consumidor Ampliado (IPCA)<sup>5</sup> registra dois picos, associados aos dois período de crises: o 1º em 2015, registra a crise 2015/2016, decorrente da reação do mercado aos gastos do governo; e o 2º, em 2021, fruto da redução da oferta agregada em virtude da pandemia;
-<br> 
-<font size='2.5'><p text align='right'><sup>5</sup>O IPCA é o índice oficial no Brasil, servindo de referência para as metas de inflação e para as alterações nas taxas de juros <a href='#referencias-slide'>(IBGE, 2022b)</a>. Ele indica a variação dos preços de uma cesta de produtos e serviços consumido pela população, sendo possível perceber se houve aumento ou redução nos preços dos itens de um mês para o outro <a href='#referencias-slide'> (Coraccini, 2021)</a>.</p></font>
+.analises[
+<br>
+<br>
+- O IPCA registra dois picos:
+  <br>
+  <br>
+  - em 2015, com a crise de 2015 decorrente da reação do mercado aos gastos governamentais;
+  <br>
+  <br>
+  - em 2021, com a redução da oferta agregada em razão da pandemia.
 ]
 
 ---
@@ -363,35 +423,21 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 
 <br> <br> <br> <br> <br>
 
-<p text align="justify">Em relação ao endividamento das famílias, <a href='#referencias-slide'>Bortoluzzi <i>et al.</i> (2015)</a> afirma que os motivos que levam as famílias a se endividarem podem ter origem:</p>
-
-- <strong><font color="#000000">Fatores microeconômicos:</font></strong> relacionados ao comportamento das pessoas (ou famílias), referentes aos aspectos subjetivos ou à própria dinâmica familiar; ou 
-
-- <strong><font color="#000000">Fatores macroeconômicos:</font></strong> pelas decisões de política econômica.
-
-<p text align="justify">A elevação da inflação nos últimos anos e a consequente redução do poder de compra dos brasileiros, somado às elevadas taxas de desemprego, a má administração das finanças pessoais, as compras parceladas, os empréstimos impulsivos, entre outros, podem ser considerados as principais causas do crescente envidividamento das famílias brasileiras <a href='#referencias-slide'> (Menasce, 2020)</a>.</p>
-
----
-
-<div class="footer"><img src="img/footer.png" height="112px"></div>
-<div class="header"><img src="img/header1.png"></div>
-
-<br> <br> <br> <br>
-
-.metade-esquerda[
-<center><font size="3.5"><strong><font color="#000000">Figura 6 - Endividamento das famílias em SP - % do total de famílias - 2013/2022</font></strong></font></center>
+.graficos[
+<center><font size="4"><strong><font color="#000000">Figura 6 - Endividamento das famílias em SP - % do total de famílias - 2013/2022</font></strong></font></center>
 
 <center><img src="img/figura-6.png" alt="Endividamento das famílias em SP - % do total de famílias - 2013/2022"></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">CNC-PEIC (2022a)</font></a>.</font></center>
 ]
 
-.metade-direita[
-- Tanto o nível de endividamento como o de inadimplência começaram a aumentar em 2014 e seguiram tendência de crescimento pelos anos seguintes;
-- Aumento substancial do endividamento (em 2020), refletindo os efeitos da pandemia sobre a renda dos brasileiros e a necessidade de se recorrer ao endividamento para a manutenção do consumo;
-- O efeito do aumento no endividamento, somado a um período de crise econômica, resulta em elevação da inadimplência (em 2021).
-
-<font size='2.8'><p text align='right'>Pesquisa realizada no estado de São Paulo sobre famílias endividadas <br> (consumidores que declararam ter dívidas) e famílias com contas em <br> atraso (consumidores com dívidas atrasadas).</p></font>
+.analises[
+<br>
+<br>
+- Tanto o endividamento quanto a inadimplência começaram a aumentar em 2014, seguindo a tendência de crescimento
+<br>
+<br>
+- Aumento substancial do endividamento (em 2020), refletindo os efeitos da pandemia sobre a renda dos brasileiros
 ]
 
 ---
@@ -401,22 +447,19 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 
 <br> <br> <br> <br>
 
-.metade-esquerda[
-<center><font size="3.5"><strong><font color="#000000">Figura 7 - Intenção de consumo familiar - pontos - 2013/2022</font></strong></font></center>
+.graficos[
+<center><font size="4"><strong><font color="#000000">Figura 7 - Intenção de consumo familiar - pontos - 2013/2022</font></strong></font></center>
 
 <center><img src="img/figura-7.png" alt="Intenção de consumo familiar - pontos - 2013/2022"></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">CNC-ICF (2022b)</font></a>.</font></center>
-
-<font size='2.5'><p text align='right'>O índice de Intenção de Consumo das Famílias (ICF) verifica a capacidade de consumo (atual e de curto prazo), o nível de renda doméstico, a segurança no emprego e a quantidade de consumo presente e futuro das famílias,</p></font>
 ]
 
-.metade-direita[
-- Ainda que endividadas e (parcialmente) inadimplentes, a intenção de consumo das famílias parece indicar uma possível recuperação do consumo;
-- Embora a intenção de consumo tenha caíde entre 2013 e 2016, possivelmente em virtude do aumento da inflação e da crise econômica de 2015, a intenção de consumo iniciou um ciclo de recuperação entre 2016 e 2019, quando voltou a cair até 2021, motivada pela baixa expectativa e pela crise causada pela pandemia;
-- A partir de 2022, com a vacinação em massa e a paulatina retomada da economia, a intenção de consumo voltou a subir.
+.analises[
 <br>
-<font size='2.5'><p text align='right'>sendo considerado um indicador antecedente ao consumo e pode ser utilizado para o planejamento do comércio e de outras atividades produtoras <a href='#referencias-slide'>(FecomércioSP, 2022a)</a>.</p></font>
+<br>
+<br>
+- A intenção de consumo das famílias parece indicar uma recuperação do consumo
 ]
 
 ---
@@ -428,20 +471,12 @@ permitiu a flexibilização das relações de trabalho e resultou em maior preca
 
 <p style='text-align:center;'> .h3_title[6 CONCLUSÃO] </p>
 
-<p text align="justify">O cenário brasileiro entre os anos de 2013 e 2022 foi afetado por duas crises: a <strong><font color="#000000">crise econômica de 2015/2016</font></strong> e a <strong><font color="#000000">crise econômica e sanitária causada pela pandemia de Covid-19</font></strong>, sendo a segunda muito mais profunda que a primeira. Todavia, em ambos os casos, os resultados foram perniciosos não somente para o crescimento econômico, mas, sobretudo, no que se refere ao consumo das famílias e demais consequências para o desenvolvimento econômico e social.</p>
+<br>
+- <p text align="justify">O cenário brasileiro entre os anos de 2013 e 2022 foi afetado por duas crises: a crise econômica de 2015 e a crise econômica e sanitária causada pela pandemia de Covid-19. Ambas foram danosas para o crescimento econômico e para o consumo das famílias.</p>
 
-<p text align="justify">O governo Bolsonaro iniciou o ano de 2019 sob grandes expectativas de recuperação econômica, com redução dos índices de inflação e aumento do consumo por parte das famílias. Entretanto, tal otimismo logo esmoreceu, devido ao choque da pandemia de Covid-19 iniciada em março de 2020. Este choque adverso teve papel central na crise, porém a política governamental ao retardar ações pró-ativas de auxílio emergencial e outras políticas de fomento da atividade produtiva ampliaram os efeitos negativos sobre a economia.</p>
+- <p text align="justify">As principais consequências dizem respeito à elevação dos índices de inflação e redução dos níveis de consumo, com recrudescimento do endividamento familiar.</p>
 
----
-
-<div class="footer"><img src="img/footer.png" height="112px"></div>
-<div class="header"><img src="img/header1.png"></div>
-
-<br> <br> <br> <br> <br> <br>
-
-<p text align="justify">As principais consequências dizem respeito à elevação dos índices de inflação e redução dos níveis de consumo, recrudescendo o endividamento das famílias brasileiras que necessitavam manter ao menos em parte os níveis de consumo anteriores à pandemia. A expectativa de retomada das atividades, a partir do segundo semestre de 2021, exacerbou não apenas a intenção de consumo familiar, sobretudo, o próprio consumo familiar. Entretanto, tal processo não foi isento de contradições, uma vez que se verificou a ascensão do endividamento das famílias.</p>
-
-<p text align="justify">Com relação ao comportamento do cenário futuro, a <a href='referencias-slide'>OCDE (2022)</a> assinala que o consumo das famílias, juntamente com o investimento privado e as exportações serão os principais motores de crescimento do Brasil. As transferências sociais e o crescimento do emprego impulsionarão o consumo das famílias. No entando, as instabilidades do cenário econômico mundial, com pressões inflacionárias e desaceleração da atividade econômica global, impactarão nas taxas de juros que permanecerão elevadas, agravando a situação financeira das famílias e comprometendo o crescimento econômico do país nos próximos anos.</p>
+- <p text align="justify">Com relação ao comportamento do cenário futuro, a <a href='referencias-slide'>OCDE (2022)</a> assinala que o consumo das famílias, juntamente com o investimento privado e as exportações serão os principais motores de crescimento do Brasil.</p>
 
 ---
 name: referencias-slide
@@ -455,57 +490,27 @@ name: referencias-slide
 
 BASTOS, Pedro Paulo Zahluth. Ascensão e crise do governo Dilma Rousseff e o golpe de 2016: poder estrutural, contradição e ideologia. <strong><font color="#000000">Revista de Economia Contemporânea.</font></strong> Rio de Janeiro, v. 21, p. 1- 63, 2017.
 
-BORTOLUZZI, Daiane Antonini et al. Aspectos do endividamento das famílias brasileiras no período de 2011-2014. <strong><font color="#000000">Revista Perspectiva</font></strong>. Rio Grande do Sul, v. 39, n. 146, p. 111-123, 2015.
-
-BRASIL. Emenda Constitucional no 106, de 8 de maio de 2020. Institui regime extraordinário fiscal, financeiro e de contratações para enfrentamento de calamidade pública nacional decorrente de pandemia. <strong><font color="#000000">Congresso Nacional</font></strong>, 2020. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc106.htm. Acesso em: 01 set. 2023.
-
 BRESSER-PEREIRA, Luiz Carlos. O governo Dilma frente ao "tripé macroeconômico" e à direita liberal e dependente. <strong><font color="#000000">Novos estudos CEBRAP</font></strong>, p. 5-15, 2013.
-
----
-
-<div class="footer"><img src="img/footer.png" height="112px"></div>
-<div class="header"><img src="img/header1.png"></div>
-
-<br> <br> <br> <br> <br> 
 
 CAMARGOS, Matheus Augusto Reis. Análise do comportamento do nível de endividamento dos brasileiros. 2022. 19 f. Trabalho de Conclusão de Curso (Graduação em Ciências Contábeis) – Universidade Federal de Uberlândia, Uberlândia, 2022. Disponível em: https://repositorio.ufu.br/handle/123456789/35495. Acesso em: 24 ago. 2023.
 
 CARDOSO, Fernanda Graziella; REIS, Cristina Fróes de Borja (Orgs.). <strong><font color="#000000">Desafios do Desenvolvimento Brasileiro pós-Covid-19.</font></strong> São Carlos: Pedro & João Editores, 2022. Disponível em: https://www.saopaulo.sp.leg.br/escoladoparlamento/wp-content/uploads/sites/5/2022/08/EBOOK_Desafios-do-desenvolvimento-brasileiro-po%CC%81s-Covid-19.pdf. Acesso em: 15 set. 2023.
 
-CARNEIRO, Ricardo. A agenda econômica anacrônica do Governo Bolsonaro. <strong><font color="#000000">Brazilian Keynesian Review</font></strong>, v. 5, n. 1, p. 154-173, 2019. Disponível em: https://www.braziliankeynesianreview.org/BKR/article/view/200. Acesso em: 15 set. 2023.
-
-CARVALHO, Helder Araujo de; SOUSA, Felipe Gerhard Paula; FUENTES, Verónica Ligia Peñaloza. Representação social do endividamento individual. <strong><font color="#000000">Revista Pensamento Contemporâneo em Administração</font></strong>, v. 11, n. 1, p. 100-115, 2017.
-
 ---
 
 <div class="footer"><img src="img/footer.png" height="112px"></div>
 <div class="header"><img src="img/header1.png"></div>
 
 <br> <br> <br> <br> <br> 
+
+CARNEIRO, Ricardo. A agenda econômica anacrônica do Governo Bolsonaro. <strong><font color="#000000">Brazilian Keynesian Review</font></strong>, v. 5, n. 1, p. 154-173, 2019. Disponível em: https://www.braziliankeynesianreview.org/BKR/article/view/200. Acesso em: 15 set. 2023.
+
+CARVALHO, Helder Araujo de; SOUSA, Felipe Gerhard Paula; FUENTES, Verónica Ligia Peñaloza. Representação social do endividamento individual. <strong><font color="#000000">Revista Pensamento Contemporâneo em Administração</font></strong>, v. 11, n. 1, p. 100-115, 2017.
 
 CARVALHO, Sandro Sacchet de et al. O consumo das famílias no Brasil entre 2000 e 2013: uma análise estrutural a partir de dados do Sistema de Contas Nacionais e da Pesquisa de Orçamentos Familiares. <strong><font color="#000000">Instituto de Pesquisa Econômica Aplicada (IPEA)</font></strong>, 2016. Disponível em: https://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_2209.pdf. Acesso em: 26 ago. 2023.
 
 CNC. Pesquisa de Endividamento e Inadimplência do Consumidor (PEIC). <strong><font color="#000000">Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)</font></strong>, Brasília, 2022a. Disponível em: https://www.portaldocomercio.org.br/publicacoes/. Acesso em: 25 ago. 2023.
 
-CNC. Pesquisa de Intenção de Consumo das Famílias (ICF). <strong><font color="#000000">Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)</font></strong>, Brasília, 2022b. Disponível em: https://www.portaldocomercio.org.br/publicacoes/. Acesso em: 25 ago. 2023.
-
-CORACCINI, Raphael. IGP-M: Entenda como funciona o “índice de inflação do aluguel”. <strong><font color="#000000">CNN Brasil</font></strong>, São Paulo, 30 ago. 2021. Disponível em: https://www.cnnbrasil.com.br/business/igp-m-entenda- como-funciona-o-indice-de-inflacao-do-aluguel/. Acesso em: 15 ago. 2023.
-
----
-
-<div class="footer"><img src="img/footer.png" height="112px"></div>
-<div class="header"><img src="img/header1.png"></div>
-
-<br> <br> <br> <br> <br> <br>
-
-GIL, Antonio Carlos. <strong><font color="#000000">Como elaborar projetos de pesquisa</font></strong>. 4a. ed. São Paulo: Atlas, 2002.
-
-GREMAUD, Amaury Patrick; VASCONCELOS, Marco Antonio Sandoval de; TONETO JR. Rudinei. <strong><font color="#000000">Economia Brasileira Contemporânea.</font></strong> 8a. ed. São Paulo: Atlas, 2017.
-
-IBGE. Índice Nacional de Preços ao Consumidor Amplo (IPCA). <strong><font color="#000000">Instituto Brasileiro de Geografia e Estatística (IBGE)</font></strong>, Rio de Janeiro: IBGE, 2022a. Disponível em: https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?t=series-historicas&utm_source=landing&utm_medium=explica&utm_campaign=inflacao#plano-real-mes. Acesso em: 25 ago. 2023.
-
-IBGE. Inflação. <strong><font color="#000000">Instituto Brasileiro de Geografia e Estatística (IBGE)</font></strong>, Rio de Janeiro: IBGE, 2022b. Disponível em: https://www.ibge.gov.br/explica/inflacao.php. Acesso em: 13 dez. 2022.
-
 ---
 
 <div class="footer"><img src="img/footer.png" height="112px"></div>
@@ -513,15 +518,13 @@ IBGE. Inflação. <strong><font color="#000000">Instituto Brasileiro de Geografi
 
 <br> <br> <br> <br> <br> 
 
-IBGE. Sistema de Contas Nacionais Trimestrais (SCNT). <strong><font color="#000000">Instituto Brasileiro de Geografia e Estatística (IBGE)</font></strong>, Rio de Janeiro: IBGE, 2023. Disponível em: https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9300-contas-nacionais-trimestrais.html. Acesso em 01 set. 2023.
+CNC. Pesquisa de Intenção de Consumo das Famílias (ICF). <strong><font color="#000000">Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC)</font></strong>, Brasília, 2022b. Disponível em: https://www.portaldocomercio.org.br/publicacoes/. Acesso em: 25 ago. 2023.
 
-IPEADATA. Produto Interno Bruto (PIB) – consumo final das famílias. <strong><font color="#000000">Instituto de Pesquisa Econômica Aplicada (IPEA)</font></strong>, Brasília, DF: IPEA, 2022. Disponível em: http://www.ipeadata.gov.br/Default.aspx. Acesso em: 25 ago. 2023.
+CORACCINI, Raphael. IGP-M: Entenda como funciona o “índice de inflação do aluguel”. <strong><font color="#000000">CNN Brasil</font></strong>, São Paulo, 30 ago. 2021. Disponível em: https://www.cnnbrasil.com.br/business/igp-m-entenda- como-funciona-o-indice-de-inflacao-do-aluguel/. Acesso em: 15 ago. 2023.
 
-MENASCE, Marcella. Endividamento: Descubra quais são as principais causas. <strong><font color="#000000">Em dia</font></strong>, 11 ago. 2020. Disponível em: https://blog.euemdia.com.br/endividamento-das-familias/. Acesso em: 26 ago. 2023.
+GREMAUD, Amaury Patrick; VASCONCELOS, Marco Antonio Sandoval de; TONETO JR. Rudinei. <strong><font color="#000000">Economia Brasileira Contemporânea.</font></strong> 8a. ed. São Paulo: Atlas, 2017.
 
-OCDE. Brasil Perspectivas Economicas de la OCDE. <strong><font color="#000000">OCDE</font></strong>, 22 nov. 2022. Disponível em: https://issuu.com/oecd.publishing/docs/e0112esp_brz_prt. Acesso em: 25 ago. 2023.
-
-OREIRO, José Luiz; PAULA, Luiz Fernando de. <strong><font color="#000000">Macroeconomia da estagnação econômica.</font></strong> Rio de Janeiro: Alta Books. 2021.
+IBGE. Índice Nacional de Preços ao Consumidor Amplo (IPCA). <strong><font color="#000000">Instituto Brasileiro de Geografia e Estatística (IBGE)</font></strong>, Rio de Janeiro: IBGE, 2022a. Disponível em: https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?t=series-historicas&utm_source=landing&utm_medium=explica&utm_campaign=inflacao#plano-real-mes. Acesso em: 25 ago. 2023.
 
 ---
 
@@ -530,13 +533,25 @@ OREIRO, José Luiz; PAULA, Luiz Fernando de. <strong><font color="#000000">Macro
 
 <br> <br> <br> <br> <br> <br>
 
+IBGE. Inflação. <strong><font color="#000000">Instituto Brasileiro de Geografia e Estatística (IBGE)</font></strong>, Rio de Janeiro: IBGE, 2022b. Disponível em: https://www.ibge.gov.br/explica/inflacao.php. Acesso em: 13 dez. 2022.
+
+IBGE. Sistema de Contas Nacionais Trimestrais (SCNT). <strong><font color="#000000">Instituto Brasileiro de Geografia e Estatística (IBGE)</font></strong>, Rio de Janeiro: IBGE, 2023. Disponível em: https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9300-contas-nacionais-trimestrais.html. Acesso em 01 set. 2023.
+
+IPEADATA. Produto Interno Bruto (PIB) – consumo final das famílias. <strong><font color="#000000">Instituto de Pesquisa Econômica Aplicada (IPEA)</font></strong>, Brasília, DF: IPEA, 2022. Disponível em: http://www.ipeadata.gov.br/Default.aspx. Acesso em: 25 ago. 2023.
+
+OCDE. Brasil Perspectivas Economicas de la OCDE. <strong><font color="#000000">OCDE</font></strong>, 22 nov. 2022. Disponível em: https://issuu.com/oecd.publishing/docs/e0112esp_brz_prt. Acesso em: 25 ago. 2023.
+
 PASSOS, Carlos Roberto Martins; NOGAMI, Otto. <strong><font color="#000000">Princípios de economia</font></strong>. São Paulo: Pioneira, 1998.
+
+---
+
+<div class="footer"><img src="img/footer.png" height="112px"></div>
+<div class="header"><img src="img/header1.png"></div>
+
+<br> <br> <br> <br> <br> <br>
 
 PMDB. PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO. <strong><font color="#000000">Uma ponte para o futuro</font></strong>. 2015. Fundação Ulysses Guimarães. Brasília, 29 de outubro de 2015. Disponível em: https://static.poder360.com.br/2017/07/ponteparaofuturo.pdf. Acesso em 15 set. 2023.
 
 ROSSETTI, José Paschoal. <strong><font color="#000000">Introdução à economia</font></strong>. 20a. ed. São Paulo: Atlas, 2003.
 
-SEVERINO, Antônio Joaquim. <strong><font color="#000000">Metodologia do Trabalho científico</font></strong>. São Paulo: Editora Cortez. 2014.
-
-TROVÃO, C. J. B. M. A pandemia da covid-19 e a desigualdade de renda no Brasil: um olhar macrorregional para a proteção social e os auxílios emergenciais. <strong><font color="#000000">Texto para discussão</font></strong>, Natal: Universidade Federal do Rio Grande do Norte, 2020. Disponível em: https://ccsa.ufrn.br/portal/wp-content/uploads/2020/05/TROVÃO-2020-PANDEMIA-E-DESIGUALDADE.pdf. Acesso em: 26 ago. 2023.
 

@@ -51,14 +51,14 @@ li{
 .long_title {
   font-family: var(--header-font-family), var(--header-font-family-fallback);
   font-weight: 200;
-  font-size: 20px;
+  font-size: 24px;
   color: #404040;
 }
 
 .authors {
   /*font-family: var(--header-font-family), var(--header-font-family-fallback);*/
   font-weight: 100;
-  font-size: 13px;
+  font-size: 14px;
   color: #404040;
 }
 
@@ -95,12 +95,29 @@ li{
   text-align: justify;
 }
 
-.metade-direita-paragrafo{
-  width: 43%;
+.metade-esquerda-maior {
+  width: 40%;
+  float: left;
+  padding-bottom: 5em;
+}
+
+.metade-direita-menor {
+  width: 60%;
+  float: right;
+  padding-bottom: 5em;
+  text-align: justify;
+}
+
+.graficos {
+  width: 60%;
+  float: left;
+  padding-bottom: 5em;
+}
+
+.analises {
+  width: 40%;
   height: 100%;
   float: right;
   text-align: justify;
 }
-
-
 

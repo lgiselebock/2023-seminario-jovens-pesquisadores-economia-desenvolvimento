@@ -72,7 +72,7 @@ style_duo_accent(
 ]
 
 .right-column[
-- um das variáveis mais importantes do Sistema de Contas Nacional (SCN)
+- uma das variáveis mais importantes do Sistema de Contas Nacional
 <br>
 <br>
 - permite compreender a acessibilidade das famílias aos bens e serviços ofertados
@@ -280,6 +280,8 @@ style_duo_accent(
 <br> <br> <br> <br> <br>
 
 <p style='text-align:center;'> .h3_title[4 METODOLOGIA] </p>
+
+<strong><font color="#000000">OBJETIVO:</font></strong> Analisar os aspectos do consumo e do endividamento da famílias brasileiras entre o período de 2013 a 2022.
 
 - Pesquisa bibliográfica (contextualização dos temas abordados e do período histórico abordado);
 - Pesquisa documental e análise de dados secundários:

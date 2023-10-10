@@ -120,3 +120,8 @@ li{
   float: right;
 }
 
+.texto {
+  font-weight: 100;
+  font-size: 35px;
+  color: #000000;
+}

@@ -109,15 +109,14 @@ li{
 }
 
 .graficos {
-  width: 60%;
+  width: 75%;
   float: left;
   padding-bottom: 5em;
 }
 
 .analises {
-  width: 40%;
+  width: 25%;
   height: 100%;
   float: right;
-  text-align: justify;
 }
 

@@ -301,20 +301,19 @@ style_duo_accent(
 .graficos[
 <center><font size="4"><strong><font color="#000000">Figura 1 - Consumo das Famílias Brasileiras - em milhões de R$ - 2013/2022</font></strong></font></center>
 
-<center><img src="img/figura-1.png" alt="Consumo das Famílias Brasileiras - em milhões de R$ - 2013/2022"></center>
+<center><img src="img/figura-1.png" alt="Consumo das Famílias Brasileiras - em milhões de R$ - 2013/2022" height='425px'></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">SCNT/IBGE (2023)</font></a>.</font></center>
 ]
 
 .analises[
-<br>
-- Queda do consumo entre os anos de 2015 e 2016, com posterior recuperação
-<br>
-<br>
-- Com a pandemia, em 2020, o consumo voltou a cair
+- <font size='4'>Queda do consumo entre os anos de 2015 e 2016, com posterior recuperação</font>
 <br>
 <br>
-- Com a as medidas econômicas aprovadas e a retomada do comércio e do setor de serviços, o consumo voltou a crescer.
+- <font size='4'>Com a pandemia, em 2020, o consumo voltou a cair</font>
+<br>
+<br>
+- <font size='4'>Com a as medidas econômicas aprovadas e a retomada do comércio e do setor de serviços, o consumo voltou a crescer.</font>
 ]
 
 ---
@@ -335,10 +334,10 @@ style_duo_accent(
 .analises[
 <br>
 <br>
-- Com exceção da crise econômica (2015) e da crise causada pela pandemia (2020), o consumo varia mais do que o PIB
+- <font size='4'>Com exceção da crise econômica (2015) e da crise causada pela pandemia (2020), o consumo varia mais do que o PIB</font>
 <br>
 <br>
-- Nos momentos de crises econômicas, o consumo se retrai em maior proporção em relação a queda do PIB.
+- <font size='4'>Nos momentos de crises econômicas, o consumo se retrai em maior proporção em relação a queda do PIB.</font>
 ]
 
 ---
@@ -359,10 +358,10 @@ style_duo_accent(
 .analises[
 <br>
 <br>
-- Queda significativo no 1º semestre de 2020
+- <font size='4'>Queda significativo no 1º semestre de 2020</font>
 <br>
 <br>
-- Com as medidas econômicas aprovadas e a vacinação da população, o consumo <i>per capita</i> das famílias apresentou recuperação.
+- <font size='4'>Com as medidas econômicas aprovadas e a vacinação da população, o consumo <i>per capita</i> das famílias apresentou recuperação.</font>
 ]
 
 ---
@@ -375,7 +374,7 @@ style_duo_accent(
 .graficos[
 <center><font size="4"><strong><font color="#000000">Figura 4 - Percentual do consumo das famílias sobre o PIB brasileiro - 2013/2022</font></strong></font></center>
 
-<center><img src="img/figura-4.png" alt="Percentual do consumo das famílias sobre o PIB brasileiro - 2013/2022"></center>
+<center><img src="img/figura-4.png" alt="Percentual do consumo das famílias sobre o PIB brasileiro - 2013/2022" height='395px'></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">SCNT/IBGE (2023)</font></a>.</font></center>
 ]
@@ -383,10 +382,10 @@ style_duo_accent(
 .analises[
 <br>
 <br>
-- O consumo representa mais de 60% do PIB
+- <font size='4'>O consumo representa mais de 60% do PIB</font>
 <br>
 <br>
-- O peso do consumo no PIB foi negativamente impactado pelas crises (2015 e 2020), marcando a reversão da tendência de crescimento.
+- <font size='4'>O peso do consumo no PIB foi negativamente impactado pelas crises (2015 e 2020), marcando a reversão da tendência de crescimento.</font>
 ]
 
 ---
@@ -399,7 +398,7 @@ style_duo_accent(
 .graficos[
 <center><font size="4"><strong><font color="#000000">Figura 5 - Variação acumulada durante o ano do IPCA no Brasil - 2012/2022</font></strong></font></center>
 
-<center><img src="img/figura-5.png" alt="Variação acumulada durante o ano do IPCA no Brasil - 2012/2022"></center>
+<center><img src="img/figura-5.png" alt="Variação acumulada durante o ano do IPCA no Brasil - 2012/2022" height='450px'></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">IBGE (2022a)</font></a>.</font></center>
 ]
@@ -407,13 +406,13 @@ style_duo_accent(
 .analises[
 <br>
 <br>
-- O IPCA registra dois picos:
+- <font size='4'>O IPCA registra dois picos:</font>
   <br>
   <br>
-  - em 2015, com a crise de 2015 decorrente da reação do mercado aos gastos governamentais;
+  <font size='4'> * em 2015, com a crise de 2015 decorrente da reação do mercado aos gastos governamentais;</font>
   <br>
   <br>
-  - em 2021, com a redução da oferta agregada em razão da pandemia.
+  <font size='4'> * em 2021, com a redução da oferta agregada em razão da pandemia.</font>
 ]
 
 ---
@@ -426,18 +425,17 @@ style_duo_accent(
 .graficos[
 <center><font size="4"><strong><font color="#000000">Figura 6 - Endividamento das famílias em SP - % do total de famílias - 2013/2022</font></strong></font></center>
 
-<center><img src="img/figura-6.png" alt="Endividamento das famílias em SP - % do total de famílias - 2013/2022"></center>
+<center><img src="img/figura-6.png" alt="Endividamento das famílias em SP - % do total de famílias - 2013/2022" height='450px'></center>
 
 <center><font size="3">Fonte: <a href='#referencias-slide'><font color="#000000">CNC-PEIC (2022a)</font></a>.</font></center>
 ]
 
 .analises[
 <br>
+- <font size='4'>Tanto o endividamento quanto a inadimplência começaram a aumentar em 2014, seguindo a tendência de crescimento</font>
 <br>
-- Tanto o endividamento quanto a inadimplência começaram a aumentar em 2014, seguindo a tendência de crescimento
 <br>
-<br>
-- Aumento substancial do endividamento (em 2020), refletindo os efeitos da pandemia sobre a renda dos brasileiros
+- <font size='4'>Aumento substancial do endividamento (em 2020), refletindo os efeitos da pandemia sobre a renda dos brasileiros</font>
 ]
 
 ---
@@ -459,7 +457,7 @@ style_duo_accent(
 <br>
 <br>
 <br>
-- A intenção de consumo das famílias parece indicar uma recuperação do consumo
+- <font size='4'>A intenção de consumo das famílias parece indicar uma recuperação do consumo</font>
 ]
 
 ---

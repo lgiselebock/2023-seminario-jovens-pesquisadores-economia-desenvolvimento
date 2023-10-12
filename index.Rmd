@@ -1,6 +1,6 @@
 ---
-# title: "Presentation Ninja"
-# subtitle: "&#x2694;&#xFE0F; xaringan +<br/>&#x1F60E; xaringanthemer"  
+title: "Consumo e endividamento das famílias brasileiras: uma análise do período entre 2013 e 2022"
+# subtitle: ""
 # author: 
 #   - "Yihui Xie"
 #   - "Garrick Aden-Buie"

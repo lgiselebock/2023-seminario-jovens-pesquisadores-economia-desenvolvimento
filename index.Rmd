@@ -1,6 +1,6 @@
 ---
-title: "Consumo e endividamento das famílias brasileiras: uma análise do período entre 2013 e 2022"
-# subtitle: ""
+title: "Consumo e endividamento das famílias brasileiras"
+subtitle: "uma análise do período entre 2013 e 2022"
 # author: 
 #   - "Yihui Xie"
 #   - "Garrick Aden-Buie"
